@@ -1,0 +1,22 @@
+[
+  {
+    "name": "prismic-preview",
+    "path": "/preview",
+    "component": "/Users/nouhachhih/Documents/figaret-demo/.nuxt-storybook/prismic/pages/preview.vue",
+    "_name": "_6fe9ce02"
+  },
+  {
+    "name": "page-uid",
+    "path": "/page/:uid?",
+    "component": "/Users/nouhachhih/Documents/figaret-demo/pages/page/_uid.vue",
+    "chunkName": "pages/page/_uid",
+    "_name": "_039ac80c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/nouhachhih/Documents/figaret-demo/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_ea062266"
+  }
+]
